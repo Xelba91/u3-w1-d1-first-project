@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+.mioBottone {
+  background-color: red;
+  color: white;
+}
+
+.ciao {
+  background-color: blue;
+}
+
+.ciao2 {
+  background-color: green;
+  border-radius: 10px;
+  padding: 5px;
+}
